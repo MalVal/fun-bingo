@@ -1,4 +1,4 @@
-import {Bingo} from "./bingo";
+import {Bingo} from "./bingo.js";
 
 let canvas = document.getElementById("bingo");
 let pNumbersLeft = document.getElementById("pNumbersLeft");

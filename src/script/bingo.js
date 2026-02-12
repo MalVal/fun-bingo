@@ -1,6 +1,6 @@
 import {Settings} from "./settings.js";
-import {Card} from "./card";
-import {NumberGenerator} from "./numberGenerator";
+import {Card} from "./card.js";
+import {NumberGenerator} from "./numberGenerator.js";
 
 class Bingo
 {
